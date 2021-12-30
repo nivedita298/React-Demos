@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.registerForm{
+    max-width: 600px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 60px;
+    border-radius: 15px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, .08), 0 0 6px rgba(0, 0, 0, .05);
+}
+
+.registerForm label{
+    font-size: 16px;
+    line-height: 24px;
+    color: rgb(20, 24, 27);
+    font-weight: 500;
+    display: block;
+}
+
+.registerForm input{
+    font-size: 16px;
+    line-height: 24px;;
+    color: rgb(20, 24, 27);
+    font-weight: 400;
+    border: 1px solid grey;
+    border-radius: 5px;
+    display: block;
+    padding: 8px;
+    width: 100%;
+    outline: none;
+    font-weight: 400;;
+    
+}
+
+.form-div{
+    margin-bottom: 20px;
+    width: 80%;
+    margin: 20px auto;
+}
+
+h3.title{
+    font-size: 24px;
+    font-weight: 600;
+    color: rgb(243 58 119);
+    text-align: center;
+    margin: 0;
+}
+
+.registerBtn{
+    padding: 10px 48px;
+    color: white;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: rgb(243 58 119);
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+.showDataStyle{
+    max-width: 600px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 0px 60px;
+    border-radius: 15px;
+    box-shadow: 0 6px 10px rgb(0 0 0 / 8%), 0 0 6px rgb(0 0 0 / 5%);
+    display: flex;
+    justify-content: space-between;
+    font-weight: 500;
+    background: #f33a77;
+    color: #fff;
+    margin-top: 40px;
+}
+
